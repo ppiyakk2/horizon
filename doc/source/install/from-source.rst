@@ -8,7 +8,7 @@ environment. If you are looking for a developer environment, see
 
 For the system dependencies, see :doc:`system-requirements`.
 
-Installation
+Installation Step
 ============
 
 .. note::
