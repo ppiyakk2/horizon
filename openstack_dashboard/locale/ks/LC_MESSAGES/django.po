@@ -2635,8 +2635,8 @@ msgstr ""
 msgid ""
 "Successfully sent the request to upload volume to image for volume: \"%s\""
 msgstr ""
-"کامیابی سآن سوزیو دَرخواست والدیوم اَپلوڈ کئرنہٕ خآطرہ  شکل والیوم خآطرہ : \"%s"
-"\""
+"کامیابی سآن سوزیو دَرخواست والدیوم اَپلوڈ کئرنہٕ خآطرہ  شکل والیوم خآطرہ : "
+"\"%s\""
 
 msgid "Successfully updated QoS Spec association."
 msgstr "کامیابی سآن اَپڈیٹ QoS سِپیک مِلن سآر"
@@ -3076,8 +3076,8 @@ msgstr "نا قابِل بیک اَپ واپس     اَنہٕ ٕ خآطرہ"
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr "نا قابِلIP ایڈریس اَنہٕ  خآطرہ  نیوٹران پئٹھ مِثال \"%(name)s\" (%(id)s)."
 
 msgid "Unable to retrieve IP addresses from Neutron."
