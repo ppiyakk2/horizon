@@ -3303,8 +3303,8 @@ msgstr "बैकअप बहाल करबामे असमर्थ."
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr ""
 "दृष्टांत \"%(name)s\" (%(id)s) क लेल न्यूट्रान सँ आईपी पता पुनर्प्राप्त करबामे असमर्थ."
 
