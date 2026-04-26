@@ -12,8 +12,8 @@ msgstr ""
 "Language-Team: Slovenian (Slovenia)\n"
 "Language: sl_SI\n"
 "X-Generator: Zanata 4.3.3\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0)\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || "
+"n%100==4 ? 3 : 0)\n"
 
 #, python-format
 msgid "%(action)s: %(objs)s"

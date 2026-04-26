@@ -1115,8 +1115,8 @@ msgid ""
 "External network \"%(ext_net_id)s\" expected but not found for router "
 "\"%(router_id)s\"."
 msgstr ""
-"এক্সতর্নেল নেতৱার্ক \"%(ext_net_id)s\" এস্পেক্ত তৌই অদুবু রাউতর \"%(router_id)s"
-"\"গীদি ফংদে।"
+"এক্সতর্নেল নেতৱার্ক \"%(ext_net_id)s\" এস্পেক্ত তৌই অদুবু রাউতর "
+"\"%(router_id)s\"গীদি ফংদে।"
 
 msgid "Extra Specs"
 msgstr "অহেনবা স্পেকশীং"
@@ -3094,8 +3094,8 @@ msgstr "বেকঅপ রেষ্টোর তৌবা ঙমদে।"
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr ""
 "ইন্সতেন্স \"%(name)s\" (%(id)s)গী ন্যুত্রোন্দগী IP এদ্রেসশীং রিত্রিভ তৌবা ঙমদে। "
 
