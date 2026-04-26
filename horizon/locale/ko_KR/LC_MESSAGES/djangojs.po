@@ -84,8 +84,8 @@ msgstr "오류가 발생했습니다. 나중에 다시 시도하십시오."
 
 msgid "Array is too long ({$value.length$} items), maximum {$schema.maxItems$}"
 msgstr ""
-"배열 길이가 너무 길며 ({$value.length$} 항목), 최대 길이는 {$schema.maxItems"
-"$} 입니다."
+"배열 길이가 너무 길며 ({$value.length$} 항목), 최대 길이는 {$schema."
+"maxItems$} 입니다."
 
 msgid ""
 "Array is too short ({$value.length$} items), minimum {$schema.minItems$}"
