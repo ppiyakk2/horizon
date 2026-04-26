@@ -3309,8 +3309,8 @@ msgstr "बेकआपखौ मोनफिननो हायाखै।"
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr ""
 "बिदिन्थि \"%(name)s\" (%(id)s) नि थाखाय IP थंखौ निउट्रन निफ्राय मोनफिननो हायाखै।"
 
