@@ -78,8 +78,8 @@ msgstr "Eraro okazis. Bonvolu provu denove poste."
 
 msgid "Array is too long ({$value.length$} items), maximum {$schema.maxItems$}"
 msgstr ""
-"Tabelo estas tro longa  ({$value.length$} items), maximumo {$schema.maxItems"
-"$}"
+"Tabelo estas tro longa  ({$value.length$} items), maximumo {$schema."
+"maxItems$}"
 
 msgid ""
 "Array is too short ({$value.length$} items), minimum {$schema.minItems$}"
@@ -483,8 +483,8 @@ msgstr "{$viewValue$} estas egala al la eklusiva minimumo {$schema.minimum$}"
 
 msgid "{$viewValue$} is greater than the allowed maximum of {$schema.maximum$}"
 msgstr ""
-"{$viewValue$} estas  pli granda ol la permesita maximumo de {$schema.maximum"
-"$}"
+"{$viewValue$} estas  pli granda ol la permesita maximumo de {$schema."
+"maximum$}"
 
 msgid "{$viewValue$} is less than the allowed minimum of {$schema.minimum$}"
 msgstr "{$viewValue$} estas malpli ol la permesita minimumo {$schema.minimum$}"
