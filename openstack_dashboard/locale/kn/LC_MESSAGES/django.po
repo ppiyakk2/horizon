@@ -3359,8 +3359,8 @@ msgstr "ಬ್ಯಾಕ್‌ಅಪ್‌ ಅನ್ನು ಮರಳಿ ಸ್ಥ
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr ""
 "\"%(name)s\" ಇನ್‌ಸ್ಟನ್ಸ್‌ಗಾಗಿ ನ್ಯೂಟ್ರಾನ್‌ನಿಂದ IP ವಿಳಾಸಗಳನ್ನು ಹಿಂಪಡೆಯಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ "
 "(%(id)s)."
