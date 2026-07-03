@@ -483,8 +483,8 @@ msgstr "{$viewValue$} adalah sama dengan minimum eksklusif {$schema.minimum$}"
 
 msgid "{$viewValue$} is greater than the allowed maximum of {$schema.maximum$}"
 msgstr ""
-"{$viewValue$} lebih besar dari maksimum yang diizinkan dari {$schema.maximum"
-"$}"
+"{$viewValue$} lebih besar dari maksimum yang diizinkan dari {$schema."
+"maximum$}"
 
 msgid "{$viewValue$} is less than the allowed minimum of {$schema.minimum$}"
 msgstr "{$viewValue$} kurang dari minimum yang diizinkan {$schema.minimum$}"

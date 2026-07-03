@@ -2296,8 +2296,8 @@ msgstr ""
 "Adres IP bramki (np. 192.168.0.254). Domyślną wartością jest pierwszy adres "
 "IP sieci (np. 192.168.0.1 dla 192.168.0.0/24, 2001:DB8::1 dla 2001:"
 "DB8::/48). Należy pozostawić puste, by skorzystać z domyślnej wartości. "
-"Jeśli nie ma być używana bramka, należy zaznaczy pole wyboru \"Wyłącz bramkę"
-"\" poniżej."
+"Jeśli nie ma być używana bramka, należy zaznaczy pole wyboru \"Wyłącz "
+"bramkę\" poniżej."
 
 msgid "IPv4"
 msgstr "IPv4"
@@ -4915,8 +4915,8 @@ msgstr "Nie można przywrócić kopii zapasowej."
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr ""
 "Nie można pobrać adresów IP z Neutron dla instancji „%(name)s” (%(id)s)."
 
