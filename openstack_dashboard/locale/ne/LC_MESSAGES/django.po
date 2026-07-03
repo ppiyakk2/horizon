@@ -3070,8 +3070,8 @@ msgstr "बेकअप रिस्टोर गर्न असमर्थ।
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr ""
 "इन्सटेन्स \"%(name)s\" (%(id)s) का लागि निउट्रनबाट IP ठेकाना प्राप्त गर्न असमर्थ"
 
