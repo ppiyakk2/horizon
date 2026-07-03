@@ -3075,8 +3075,8 @@ msgstr "ব্যাকআপ পুনরায় ফিরিয়ে আনতে
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr ""
 "\"%(name)s\" (%(id)s) উদাহরণের জন্য নিউট্রন থেকে IP ঠিকানা পুনরুদ্ধার করতে অসমর্থ."
 

@@ -3306,8 +3306,8 @@ msgstr "राखीव साठा पुनर्स्थापित कर
 
 #, python-format
 msgid ""
-"Unable to retrieve IP addresses from Neutron for instance \"%(name)s"
-"\" (%(id)s)."
+"Unable to retrieve IP addresses from Neutron for instance "
+"\"%(name)s\" (%(id)s)."
 msgstr "घटकासाठी न्यूट्रॉनकडून आयपी पत्ते मिळविण्यास असमर्थ \"%(name)s\" (%(id)s)."
 
 msgid "Unable to retrieve IP addresses from Neutron."
